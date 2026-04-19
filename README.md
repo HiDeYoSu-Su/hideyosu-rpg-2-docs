@@ -3,5 +3,7 @@ HiDeYoSu RPGについてのあれこれとか、しょーもない仕様をコ�
 
 ### index
 [伝承とか色々](Lore.md)
+
 [素材類のメモ](Materialize.md)
+
 [キャラシート](Race_Role.md)
