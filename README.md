@@ -2,6 +2,6 @@
 HiDeYoSu RPGについてのあれこれとか、しょーもない仕様をコツコツ書き溜めていたもの。
 
 ### index
-[[Lore|伝承とか色々]]
-[[Materialize|素材類のメモ]]
-[[Race_Role|キャラシート]]
+[伝承とか色々](Lore.md)
+[素材類のメモ](Materialize.md)
+[キャラシート](Race_Role.md)
